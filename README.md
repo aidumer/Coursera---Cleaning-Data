@@ -1,10 +1,10 @@
 This repo contains my approach to the course project for Coursera’s “Cleaning Data” course.
-   ##**Raw Data**:##
+... **Raw Data**: 
 The raw data referenced is found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 This contains data on 561 variables for 30 subjects, which split into 2 separate datasets, denoted as “Train,” and “Testing.” The 561 variables pertain to 3-axial linear acceleration and 3-axial angular velocity derived from smartphone data. The 30 subjects each perform 6 activities repeatedly. These 6 activities are found in the “activity labels” dataset. 
 
-  ##**Project Objective**:##
+... **Project Objective**:
 The attached R script will perform the following:
      1. Merge all separate datasets into 1 final dataset.
      2. Keep only the variables pertaining to the measurements of mean and standard deviation.
