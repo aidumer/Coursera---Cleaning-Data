@@ -15,7 +15,7 @@ The attached R script will perform the following:
     5. Produce a “tidy” dataset that contains the overall means of variables remaining in Step2, grouped by subject and activity. Thus, since each of the 30 subjects perform 6 activities, the final dataset will contain 180 records.
     
     
-** The dataset created in Step 5 is written to a text file, named “tidy_data.txt.”**
-** Please refer to the CodeBook.md for greater detail regarding the variables and features of the data set.**
+**The dataset created in Step 5 is written to a text file, named “tidy_data.txt.”**
+**Please refer to the CodeBook.md for greater detail regarding the variables and features of the data set.**
 
 
